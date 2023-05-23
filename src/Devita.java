@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-// Chiamare la classe col proprio cognome
 public class Devita
 {
 	public static void main(String[] args) {
